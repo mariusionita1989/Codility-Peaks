@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-Peaks", "Codility-Peaks\Codility-Peaks.csproj", "{698309D3-B56D-4092-B076-D9D8BC7BB526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-PeaksTests", "Codility-PeaksTests\Codility-PeaksTests.csproj", "{7E2DE39B-F6CD-47A1-8EFC-290E2FEE1DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{698309D3-B56D-4092-B076-D9D8BC7BB526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698309D3-B56D-4092-B076-D9D8BC7BB526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698309D3-B56D-4092-B076-D9D8BC7BB526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698309D3-B56D-4092-B076-D9D8BC7BB526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2DE39B-F6CD-47A1-8EFC-290E2FEE1DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2DE39B-F6CD-47A1-8EFC-290E2FEE1DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2DE39B-F6CD-47A1-8EFC-290E2FEE1DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2DE39B-F6CD-47A1-8EFC-290E2FEE1DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE41437-5B02-419A-A8AD-B9708E1747F8}
+	EndGlobalSection
+EndGlobal
